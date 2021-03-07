@@ -1,0 +1,21 @@
+﻿Pseudo code: It’s simply an implementation of an algorithm in the form of annotations and informative text written in plain English. It has no syntax like any of the programming language and thus can’t be compiled or interpreted by the computer.
+
+
+Advantages of Pseudocode
+* Improves the readability of any approach. It’s one of the best approaches to start implementation of an algorithm.
+* Acts as a bridge between the program and the algorithm or flowchart. Also works as a rough documentation, so the program of one developer can be understood easily when a pseudo code is written out. In industries, the approach of documentation is essential. And that’s where a pseudo-code proves vital.
+* The main goal of a pseudo code is to explain what exactly each line of a program should do, hence making the code construction phase easier for the programmer. 
+ Disadvantages of Pseudocode
+* Pseudocode  does not provide a visual representation of the logic of programming.
+* There are no proper format for writing the for pseudocode.
+* In Pseudocode their is extra need of maintain documentation.
+* In Pseudocode their is no proper standard very company follow their own standard for writing the pseudocode.
+How to write a Pseudo-code?
+1. Arrange the sequence of tasks and write the pseudocode accordingly.
+2. Start with the statement of a pseudo code which establishes the main goal or the aim.
+3. Use appropriate naming conventions. The human tendency follows the approach to follow what we see. If a programmer goes through a pseudo code, his approach will be the same as per it, so the naming must be simple and distinct.
+4. Use appropriate sentence casings, such as CamelCase for methods, upper case for constants and lower case for variables.
+5. Elaborate everything which is going to happen in the actual code. Don’t make the pseudo code abstract.
+6. Use standard programming structures such as ‘if-then’, ‘for’, ‘while’, ‘cases’ the way we use it in programming.
+7. Check whether all the sections of a pseudo code is complete, finite and clear to understand and comprehend.
+8. Don’t write the pseudo code in a complete programmatic manner. It is necessary to be simple to understand even for a layman or client, hence don’t incorporate too many technical terms.
